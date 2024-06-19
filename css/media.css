@@ -1,0 +1,71 @@
+@media (max-width:1399px) {
+    
+}
+
+@media (max-width:991px) {
+    .main_img {
+        margin-top: -32px;
+    }
+}
+
+@media (max-width:767px) {
+    .power_single_box p {
+        width: 100%;
+    }
+    .headphone_img {
+        top: 0;
+        transform: translateY(0);
+    }
+    .headphone_img img {
+        width: 500px;
+    }
+    .headphone h1 {
+        margin-top: 230px;
+    }
+    .footer_menu ul {
+        justify-content: center;
+        margin-bottom: 20px;
+    }
+    footer p {
+        text-align: center;
+    }
+    .new_music p {
+        width: auto;
+    }
+    .power {
+        min-height: 355px;
+    }
+    .feature {
+        padding-bottom: 110px;
+    }
+    .btn_headphone {
+        margin-top: 16px;
+        padding: 10px 15px 10px 15px;
+    }
+    .main_img {
+        transform: scale(1);
+    }
+    
+}
+
+@media (max-width:575px) {
+    .app img {
+        margin-top: -60px;
+        margin-bottom: 40px;
+    }
+    .feature_single_box p {
+        margin-bottom: 30px;
+    }
+    .right_menu {
+        padding-right: 25px;
+    }
+    .left_img {
+        padding-left: 25px;
+    }
+    .left_img img {
+        width: 133px;
+    }
+    .drawer-items {
+        width: 265px;
+    }
+}
